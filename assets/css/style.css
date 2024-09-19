@@ -114,6 +114,10 @@ main {
     color: #ffffff;
 }
 
+#reasons {
+    width: 90%;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
