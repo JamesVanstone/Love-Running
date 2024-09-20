@@ -116,6 +116,24 @@ main {
 
 #reasons {
     width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+}
+
+#benefits div {
+    line-height: 20px;
+}
+
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin-top: 5px 0;
+}
+
+#benefits p {
+    padding: 0 20px;
 }
 
 /* Footer */
